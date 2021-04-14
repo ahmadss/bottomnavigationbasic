@@ -2,4 +2,4 @@
 
 desain flutter untuk bottom navigation basic
 
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/sMLxB2B7tak)
+[![Watch the video](https://i9.ytimg.com/vi_webp/sMLxB2B7tak/mqdefault.webp?time=1618389300000&sqp=CLTS2oMG&rs=AOn4CLCli-DC-7SRELnJgd5eTu8SNQftGg)](https://youtu.be/sMLxB2B7tak)
